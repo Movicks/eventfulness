@@ -1,0 +1,1 @@
+export const EVENTURL = "https://eventful-moments-api.onrender.com/api/v1"
